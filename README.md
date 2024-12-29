@@ -39,4 +39,5 @@ The CCTV Analyzer project is a smart application designed to process video foota
 Detection Accuracy: 96.7%
 
 
-## Results and ImpactThe CCTV Analyzer revolutionizes security and monitoring by converting lengthy video footage into concise, actionable summaries, saving time and effort. It enhances safety with accurate anomaly detection and event tracking, enabling quick responses to incidents. Businesses gain valuable insights from quantitative data like object counts and activity logs. The system is scalable, user-friendly, and supports multilingual outputs for global accessibility. Overall, it improves operational efficiency and empowers data-driven decision-making across industries.
+## Results and Impact
+The CCTV Analyzer revolutionizes security and monitoring by converting lengthy video footage into concise, actionable summaries, saving time and effort. It enhances safety with accurate anomaly detection and event tracking, enabling quick responses to incidents. Businesses gain valuable insights from quantitative data like object counts and activity logs. The system is scalable, user-friendly, and supports multilingual outputs for global accessibility. Overall, it improves operational efficiency and empowers data-driven decision-making across industries.
